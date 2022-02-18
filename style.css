@@ -1,0 +1,45 @@
+body{
+    background-color: lightskyblue;
+    background-image: url('proj1.jpg');
+    height: 100% ;
+    
+    margin: 0 ;
+   /* Center and scale the image nicely */
+     background-position: center;
+    background-repeat: no-repeat;
+     background-size: cover;
+     }
+
+h1{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-shadow: 3px 2px white ;
+    background-color: rgb(44, 48, 49);
+    color:lightseagreen;
+}
+
+a{
+    font-size: 33px ;
+    text-align: center;
+    font-family:monospace ;
+    border-radius: 7px ;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:visited{
+    color: green;
+}
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: lightseagreen;
+}
+
+.btnstyle{
+    text-align: center;
+}
+
